@@ -1,5 +1,7 @@
 # Desafio de Projeto sobre Git/ GitHub :computer:
-Repositório contendo as anotações de estudo dos conteúdos aprendidos durantes o **Bootcamp de Quality Assurance da GFT - DIO**
+Repositório contendo as anotações de estudo dos conteúdos aprendidos durante o **Bootcamp de Quality Assurance da GFT - DIO**
+
+Aqui também são encontrados os certificados adquiridos durante o bootcamp
 
 ## Links úteis
 [ISO 9000 - A base da qualidade](https://qualidadeuniso.files.wordpress.com/2012/09/nbr-iso-9000-2005.pdf)
