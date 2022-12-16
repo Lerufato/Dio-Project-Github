@@ -1,4 +1,4 @@
-# Desafio de Projeto sobre Git/ GitHub
+# Desafio de Projeto sobre Git/ GitHub :computer:
 Repositório contendo as anotações de estudo dos conteúdos aprendidos durantes o **Bootcamp de Quality Assurance da GFT - DIO**
 
 ## Links úteis
