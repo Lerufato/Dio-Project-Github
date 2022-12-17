@@ -4,6 +4,8 @@ Repositório contendo as anotações de estudo dos conteúdos aprendidos durante
 Aqui também são encontrados os certificados adquiridos durante o bootcamp
 
 ## Links úteis
+[Drive pessoal - estudos do bootcamp](https://drive.google.com/drive/folders/1wztsR4bkvyiT8OsPtS_Hmz4xYPDVzurX?usp=share_link)
+
 [ISO 9000 - A base da qualidade](https://qualidadeuniso.files.wordpress.com/2012/09/nbr-iso-9000-2005.pdf)
 
 [Certificação CTFL](https://www.istqb.org/certifications/certified-tester-foundation-level)
@@ -14,5 +16,5 @@ Aqui também são encontrados os certificados adquiridos durante o bootcamp
 
 [Objetos do Git](https://yunwuxin1.gitbooks.io/git/content/pt-br/2f43a18152712fdc540f15b0a67e9786/eabfce06abf3d61cb56302bae6b62e77.html)
 
-[Drive pessoal - estudos do bootcamp](https://drive.google.com/drive/folders/1wztsR4bkvyiT8OsPtS_Hmz4xYPDVzurX?usp=share_link)
+[Java básico](https://glysns.gitbook.io/java-basico)
 
