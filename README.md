@@ -4,7 +4,6 @@ Repositório contendo as anotações de estudo dos conteúdos aprendidos durante
 Aqui também são encontrados os certificados adquiridos durante o bootcamp
 
 ## Links úteis
-[Drive pessoal - estudos do bootcamp](https://drive.google.com/drive/folders/1wztsR4bkvyiT8OsPtS_Hmz4xYPDVzurX?usp=share_link)
 
 [ISO 9000 - A base da qualidade](https://qualidadeuniso.files.wordpress.com/2012/09/nbr-iso-9000-2005.pdf)
 
