@@ -21,3 +21,4 @@ Aqui também são encontrados os certificados adquiridos durante o bootcamp
 
 [Tutorial Markdown](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md)
 
+[Exercícios Lógica condicional - GitHub Thiago Leite](https://github.com/tlcdio)
