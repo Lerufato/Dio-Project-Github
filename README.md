@@ -21,6 +21,6 @@ Aqui também são encontrados os certificados adquiridos durante o bootcamp
 
 [Tutorial Markdown](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md)
 
-[Exercícios Lógica condicional - GitHub Thiago Leite](https://github.com/tlcdio)
+[GitHub Thiago Leite](https://github.com/tlcdio) - Exercícios Lógica condicional e Métodos Java.
 
 [Execícios Loops e Arrays - GitHub Camila Cavalcante](https://github.com/cami-la/loops-e-arrays.git)
