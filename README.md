@@ -1,9 +1,17 @@
 # Desafio de Projeto sobre Git/ GitHub :computer:
-Repositório contendo as anotações de estudo dos conteúdos aprendidos durante o **Bootcamp de Quality Assurance da GFT - DIO**
+Repositório contendo as anotações de estudo dos conteúdos aprendidos durante os Bootcamps da DIO:
 
-Aqui também são encontrados os certificados adquiridos durante o bootcamp
+1. **GFT Quality Assurance Para Mulheres**
+2. **Banco PAN Java Developer**
 
-## Links úteis
+## Conteúdos :bookmark_tabs:
+
+- Anotações de aulas;
+- Slides comentados;
+- Certificados;
+- Links para estudo.
+
+## Links úteis :clipboard:
 
 [ISO 9000 - A base da qualidade](https://qualidadeuniso.files.wordpress.com/2012/09/nbr-iso-9000-2005.pdf)
 
