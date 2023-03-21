@@ -29,10 +29,12 @@ Repositório contendo as anotações de estudo dos conteúdos aprendidos durante
 
 [Tutorial Markdown](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md)
 
-[GitHub Thiago Leite](https://github.com/tlcdio) - Exercícios Lógica condicional e Métodos Java.
+[GitHub Thiago Leite - Exercícios Lógica condicional e Métodos Java](https://github.com/tlcdio) 
 
 [GitHub Camila Cavalcante - Execícios Loops e Arrays](https://github.com/cami-la/loops-e-arrays.git)
 
 [Teoria sobre estruturas de repetição - por William Oliveira](https://woliveiras.com.br/posts/la%C3%A7os-de-repeti%C3%A7%C3%A3o-while-e-do-while/)
 
 [GitHub Camila Cavalcante - Dominando IDEs Java](https://github.com/cami-la/curso-dio-dominando-ides-java.git)
+
+[GitHub João Dutra - Estrutura de Dados em Java](https://github.com/jrdutra/estruturaDeDadosJavaDio)
