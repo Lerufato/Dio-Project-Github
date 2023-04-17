@@ -1,7 +1,5 @@
 # Desafio de Projeto sobre Git/ GitHub :computer:
-Repositório contendo as anotações de estudo dos conteúdos aprendidos durante os Bootcamps da DIO:
-
-**GFT Quality Assurance Para Mulheres**
+Repositório contendo as anotações de estudo dos conteúdos aprendidos durante o Bootcamp **GFT Quality Assurance Para Mulheres** da DIO,conta também com outros conteúdos de cursos da DIO.
 
 ## Conteúdos :bookmark_tabs:
 
