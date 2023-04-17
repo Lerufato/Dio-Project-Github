@@ -1,8 +1,7 @@
 # Desafio de Projeto sobre Git/ GitHub :computer:
 Repositório contendo as anotações de estudo dos conteúdos aprendidos durante os Bootcamps da DIO:
 
-1. **GFT Quality Assurance Para Mulheres**
-2. **Banco PAN Java Developer**
+**GFT Quality Assurance Para Mulheres**
 
 ## Conteúdos :bookmark_tabs:
 
